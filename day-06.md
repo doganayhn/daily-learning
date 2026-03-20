@@ -1,0 +1,1 @@
+Spent the day making small improvements to my project, focusing on refining certain parts and progressing steadily. Alongside that, I practiced DevOps exercises to strengthen my understanding and completed several LabEx labs to reinforce what I’ve been learning.
