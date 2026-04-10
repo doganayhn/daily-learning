@@ -1,0 +1,1 @@
+Today I completed my LabEx activities and focused on core Linux system concepts. I reinforced my understanding of process isolation and resource management mechanisms through hands-on exercises and continued improving my practical DevOps foundation.
